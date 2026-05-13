@@ -1,0 +1,1 @@
+# Forex-Crypto-Trading-Simulator-Script
